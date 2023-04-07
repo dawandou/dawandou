@@ -1,9 +1,6 @@
-## Welcome to Captian's GitHub
+## Welcome to YiMO.一茉's GitHub
 
 ### 个人知识库网站：[http://xyhwh-nav.cn/](http://xyhwh-nav.cn/)
-
-![v2-492b629c7627c448911ecf617ca27674_r](https://cdn.jsdelivr.net/gh/dawandou/libraryImage/img/202302081045295.jpg)
-
 
 
 ### Github数据统计<br/>
